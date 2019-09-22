@@ -1,5 +1,7 @@
 # Lenovo Ideapad 320 15-IKB Hackintosh
 
+![About This Mac](https://github.com/ConradoLuiz/hackintosh-Lenovo-Ideapad-320-15-ikb/blob/master/Assets/Screen%20Shot%202019-09-22%20at%2002.19.34.png)
+
  ## Working:
  
   - ELAN Touchpad
